@@ -13,10 +13,10 @@ export function Contacto(){
                 <ul className="flex justify-center w-[50%]">
                     <div className="p-[10px]">
                         <li className="p-[5px]"><a href='https://github.com/IgnacioLopez04' target='_blank'><FontAwesomeIcon icon={faGithub}></FontAwesomeIcon> Github</a></li>
-                        <li className="p-[5px]"><a href='www.linkedin.com/in/ignacio-lopez-b28008258' target='_blank'><FontAwesomeIcon icon={faLinkedin}></FontAwesomeIcon> LinkedIn</a></li>
+                        <li className="p-[5px]"><a href='https://linkedin.com/in/ignacio-lopez-b28008258' target='_blank'><FontAwesomeIcon icon={faLinkedin}></FontAwesomeIcon> LinkedIn</a></li>
                     </div>
                     <div className="p-[10px]">
-                        <li className="p-[5px]"><a href="mailto: ignacioelopez04@gmail.com"><FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon>Gmail</a></li>
+                        <li className="p-[5px]"><a href=""><FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon>Gmail</a></li>
                         <li className="p-[5px]"><a href=''><FontAwesomeIcon icon={faFile}></FontAwesomeIcon>Curriculum</a></li>
                     </div>
                 </ul>
