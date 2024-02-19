@@ -2,6 +2,7 @@ import { Presentacion } from './components/Presentacion'
 import { Menu } from './components/Menu'
 import { Proyectos } from './components/Proyectos'
 import { Biografia } from './components/Biografia'
+import { Contacto } from './components/Contacto'
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
       <Presentacion></Presentacion>
       <Biografia></Biografia>
       <Proyectos></Proyectos>
+      <Contacto></Contacto>
     </>
   )
 }``
