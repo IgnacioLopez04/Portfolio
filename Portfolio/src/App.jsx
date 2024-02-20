@@ -9,8 +9,10 @@ function App() {
   return (
     <>
       <Menu></Menu>
-      <Presentacion></Presentacion>
-      <Biografia></Biografia>
+      <section className='flex pt-[50px]'>
+        <Presentacion></Presentacion>
+        <Biografia></Biografia>
+      </section>
       <Proyectos></Proyectos>
       <Contacto></Contacto>
     </>

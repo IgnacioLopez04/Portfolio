@@ -9,3 +9,18 @@
 section{
     padding: 0 18%;
 }
+
+::-webkit-scrollbar{
+    width: 10px;
+    background: #f5f4f4;
+  }
+  
+  ::-webkit-scrollbar-track{
+    margin-block: 2em;
+  }
+  
+  ::-webkit-scrollbar-thumb{
+    background: #CDCDCD;
+    border: 2px solid #CDCDCD;
+    border-radius: 15px;
+  }
