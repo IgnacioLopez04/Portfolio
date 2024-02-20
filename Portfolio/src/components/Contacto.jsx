@@ -17,7 +17,7 @@ export function Contacto(){
                     </div>
                     <div className="p-[10px]">
                         <li className="p-[5px]"><a href=""><FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon>Gmail</a></li>
-                        <li className="p-[5px]"><a href=''><FontAwesomeIcon icon={faFile}></FontAwesomeIcon>Curriculum</a></li>
+                        <li className="p-[5px]"><a href='/CV - Lopez Ignacio.pdf' download><FontAwesomeIcon icon={faFile}></FontAwesomeIcon>Curriculum</a></li>
                     </div>
                 </ul>
             </div>
