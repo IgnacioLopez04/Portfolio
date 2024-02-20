@@ -10,13 +10,13 @@ export function Biografia(){
                 <img className='border w-[50%] rounded-[20px] mx-[15px]' alt="Una imagen mia"></img>
             </article>
             <ul className="flex flex-row mt-[20px] justify-center">
-                <li className="mx-[10px] py-[5px] px-[10px] border rounded-[7px] bg-[#CDCDCD]">HTML</li>
-                <li className="mx-[10px] py-[5px] px-[10px] border rounded-[7px] bg-[#CDCDCD]">CSS</li>
-                <li className="mx-[10px] py-[5px] px-[10px] border rounded-[7px] bg-[#CDCDCD]">JavaScript</li>
-                <li className="mx-[10px] py-[5px] px-[10px] border rounded-[7px] bg-[#CDCDCD]">React</li>
-                <li className="mx-[10px] py-[5px] px-[10px] border rounded-[7px] bg-[#CDCDCD]">.NET</li>
-                <li className="mx-[10px] py-[5px] px-[10px] border rounded-[7px] bg-[#CDCDCD]">Django</li>
-                <li className="mx-[10px] py-[5px] px-[10px] border rounded-[7px] bg-[#CDCDCD]">Git</li>
+                <li className="mx-[10px] py-[5px] px-[10px] border rounded-[7px] bg-[#800020] text-[#FFFFFF]">HTML</li>
+                <li className="mx-[10px] py-[5px] px-[10px] border rounded-[7px] bg-[#800020] text-[#FFFFFF]">CSS</li>
+                <li className="mx-[10px] py-[5px] px-[10px] border rounded-[7px] bg-[#800020] text-[#FFFFFF]">JavaScript</li>
+                <li className="mx-[10px] py-[5px] px-[10px] border rounded-[7px] bg-[#800020] text-[#FFFFFF]">React</li>
+                <li className="mx-[10px] py-[5px] px-[10px] border rounded-[7px] bg-[#800020] text-[#FFFFFF]">.NET</li>
+                <li className="mx-[10px] py-[5px] px-[10px] border rounded-[7px] bg-[#800020] text-[#FFFFFF]">Django</li>
+                <li className="mx-[10px] py-[5px] px-[10px] border rounded-[7px] bg-[#800020] text-[#FFFFFF]">Git</li>
             </ul>
         </div>
     )

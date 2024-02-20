@@ -7,7 +7,7 @@ import { Contacto } from './components/Contacto'
 function App() {
 
   return (
-    <>
+    <main className=']'>
       <Menu></Menu>
       <section className='flex pt-[50px]'>
         <Presentacion></Presentacion>
@@ -15,7 +15,7 @@ function App() {
       </section>
       <Proyectos></Proyectos>
       <Contacto></Contacto>
-    </>
+    </main>
   )
 }``
 
