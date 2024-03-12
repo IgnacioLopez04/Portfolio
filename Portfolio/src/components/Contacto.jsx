@@ -29,8 +29,8 @@ export function Contacto() {
           disposición.
         </p>
       </section>
-      <section className="my-1 lg:flex lg:items-center lg:w-1/2">
-        <ul className="flex flex-wrap justify-center lg:flex-1 lg:flex-row">
+      <section className="my-1 lg:flex lg:items-end lg:w-1/2">
+        <ul className="flex flex-wrap justify-end lg:flex-1 lg:flex-row">
           <div className="m-2 lg:flex lg:m-0">
             <li className="my-2 px-3 py-2 bg-[#800020] rounded-md sm:hover:bg-[#800020] lg:mx-1">
               <a
