@@ -2,9 +2,9 @@ import foto from '../assets/yo.jpg'
 
 export function Biografia() {
   return (
-    <div className="flex flex-col-reverse md:flex-row mt-20 lg:w-2/3">
+    <div className="flex flex-col-reverse items-center md:flex-row mt-20 lg:w-2/3">
       <article className="flex flex-col py-10 md:1/2 lg:w-3/4 lg:ml-10">
-        <p className=" text-lg lg:mr-4 lg:text-xl">
+        <p className="lg:mr-4 lg:text-xl">
           A lo largo de mis proyectos universitarios, he consolidado mis
           conocimientos en lenguajes como C# y Python con enfoque en Django.
           Paralelamente, a través de iniciativas personales, he desarrollado
@@ -37,7 +37,7 @@ export function Biografia() {
         </ul>
       </article>
       <img
-        className=" rounded-3xl md:w-1/2 lg:h-80 lg:w-1/4 p-2"
+        className=" rounded-3xl md:w-1/2 lg:h-72 lg:w-1/2 p-2"
         src={foto}
         alt="Una imagen mia"
       ></img>
