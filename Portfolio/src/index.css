@@ -15,16 +15,6 @@ p, button, a, li{
   color: #72767A;
 }
 
-/* section{
-  padding: 0 18%;
-}
-
-@media  screen and (max-width: 1200px) {
-  section{
-    padding: 0 5%;
-  }
-} */
-
 ::-webkit-scrollbar{
     width: 10px;
     background: #f5f4f4;
